@@ -1,6 +1,5 @@
 # Swift Study Jam#2
 
-[TOC]
 
 ## 題目
 
