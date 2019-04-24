@@ -8,6 +8,7 @@
 
 ### 總共一個頁面
 畫面包括：
+
 ![](https://i.imgur.com/vr49fNs.jpg)
 
 * 手刻日曆 * 1 
@@ -15,6 +16,7 @@
 * View(顯示活動用) * 1
 
 大概長這樣（參考用）：
+
 ![](https://i.imgur.com/k7ZifVT.jpg)
 
 
